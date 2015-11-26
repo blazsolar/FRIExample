@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FRI example</string>
+    <string name="send">Send</string>
+    <string name="api_error">Error while loading</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+</resources>
